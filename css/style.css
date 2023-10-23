@@ -212,6 +212,10 @@ h4{
     background-color: #8EA1E1;
 }
 
+.download-logo{
+    margin-right: 5px;
+}
+
 .col-30{
     width: calc(100% / 6 * 2);
     height: 480px;
@@ -293,10 +297,6 @@ footer{
     margin-bottom: 50px;
 }
 
-.riga-footer{
-    border-top: 2px solid rgb(137, 137, 137);
-}
-
 .button{
     font-size: 18px;
     text-decoration: none;
@@ -308,4 +308,9 @@ footer{
     padding: 8px 16px;
     color: white;
     background-color: #8EA1E1;
+}
+
+.white-underline:hover{
+    text-decoration-line: underline;
+    color: white;
 }
