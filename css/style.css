@@ -185,6 +185,10 @@ h1{
     width: 100%;
 }
 
+#subject-big-image{
+    padding: 0 80px;
+}
+
 .d-flex-2{
     display: flex;
     flex-direction: column;
