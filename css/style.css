@@ -310,6 +310,10 @@ footer{
     background-color: #8EA1E1;
 }
 
+.bolder-text{
+    font-weight: bolder;
+}
+
 .white-underline:hover{
     text-decoration-line: underline;
     color: white;
