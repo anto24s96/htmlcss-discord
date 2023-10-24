@@ -318,6 +318,10 @@ footer{
     font-weight: bolder;
 }
 
+.full-image{
+    max-width: 100%;
+}
+
 .white-underline:hover{
     text-decoration-line: underline;
     color: white;
